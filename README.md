@@ -1,4 +1,4 @@
-# e-ticaret-tasar-m-
+# hayal-atolyesı-AI
 # 🛒 E-Commerce & Catalog Web System for Custom Design Products
 
 <div align="center">
